@@ -81,12 +81,14 @@ Note: Upload your screenshots to GitHub and replace the src links above.
 
 📁 Project Structure Overview
 
+ ```
 lib/
 ├── components/    # Reusable UI widgets
 ├── models/        # Data models & Provider logic
 ├── pages/         # App screens (Shop, Cart, Home)
 ├── assets/        # Images & static resources
 └── main.dart      # App entry point
+```
 
 
 ## 🎯 Learning Outcomes
@@ -101,15 +103,15 @@ lib/
 
 ## 🔮 Future Improvements
 
-[ ] Checkout flow
+ [ ] Checkout flow
 
-[ ] User authentication
+ [ ] User authentication
 
-[ ] Backend integration (Firebase / REST API)
+ [ ] Backend integration (Firebase / REST API)
 
-[ ] Payment gateway integration
+ [ ] Payment gateway integration
 
-[ ] Animations and micro-interactions
+ [ ] Animations and micro-interactions
 
 ## 📄 License
 
