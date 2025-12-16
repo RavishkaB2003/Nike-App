@@ -70,15 +70,6 @@ Connect a physical device or start an emulator:
 flutter run
 ```
 
-## 🖼️ Screenshots
-
-<div align="center">
-<img src="[suspicious link removed]" alt="Shop Page" height="400">
-<img src="https://www.google.com/search?q=https://via.placeholder.com/200x400%3Ftext%3DCart%2BPage" alt="Cart Page" height="400">
-</div>
-
-Note: Upload your screenshots to GitHub and replace the src links above.
-
 📁 Project Structure Overview
 
  ```
