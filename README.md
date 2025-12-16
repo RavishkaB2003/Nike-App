@@ -1,86 +1,76 @@
-Nike E-Commerce Mobile App
+# Nike E-Commerce Mobile App
 
-A Flutter UI & State Management Project
+## A Flutter UI & State Management Project
 
 This project is a Nike-inspired e-commerce mobile application developed using Flutter. It focuses on clean UI design, reusable components, and efficient state management while simulating a real-world shopping experience with a shop and cart flow.
 
 The app was built as a learning project to strengthen Flutter fundamentals, widget composition, and Provider-based state management.
 
-✨ Key Highlights
+## ✨ Key Highlights
 
-Nike-themed modern UI
+- Nike-themed modern UI
 
-Product listing (Shop Page)
+- Product listing (Shop Page)
 
-Add / remove items from Cart
+- Add / remove items from Cart
 
-Real-time cart state updates using Provider
+- Real-time cart state updates using Provider
 
-Bottom navigation with smooth transitions
+- Bottom navigation with smooth transitions
 
-Clean and scalable project structure
+- Clean and scalable project structure
 
-Responsive layout for different screen sizes
+- Responsive layout for different screen sizes
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Technology
+| Technology     |  Purpose                                 |
+|----------------|------------------------------------------|
+|  Flutter       |    Cross-platform mobile app development |
+|  Dart          |   Core programming language              |
+| Provider       |  State management                        |
+| Google Nav Bar | Bottom navigation UI                     |
+| VS Code        |  Development environment                 |
 
-Purpose
 
-Flutter
+## 📦 Dependencies
 
-Cross-platform mobile app development
+ - provider: ^6.0.5
 
-Dart
+ - google_nav_bar: ^5.0.6
 
-Core programming language
+ - cupertino_icons: ^1.0.2
 
-Provider
-
-State management
-
-Google Nav Bar
-
-Bottom navigation UI
-
-VS Code
-
-Development environment
-
-📦 Dependencies
-
-provider: ^6.0.5
-
-google_nav_bar: ^5.0.6
-
-cupertino_icons: ^1.0.2
-
-🚀 Getting Started
+## 🚀 Getting Started
 
 Follow the steps below to run the project locally.
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
+```sh
 git clone [https://github.com/your-username/ecommence_app.git](https://github.com/your-username/ecommence_app.git)
 cd ecommence_app
+```
 
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 Ensure Flutter is installed and properly configured, then run:
 
+```sh
 flutter pub get
+```
 
 
-3️⃣ Run the Application
+### 3️⃣ Run the Application
 
 Connect a physical device or start an emulator:
 
+```sh
 flutter run
+```
 
-
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 <div align="center">
 <img src="[suspicious link removed]" alt="Shop Page" height="400">
@@ -99,17 +89,17 @@ lib/
 └── main.dart      # App entry point
 
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
-Strong understanding of Flutter widgets
+- Strong understanding of Flutter widgets
 
-Practical use of Provider for state management
+- Practical use of Provider for state management
 
-Navigation and UI composition best practices
+- Navigation and UI composition best practices
 
-Clean separation of UI and business logic
+- Clean separation of UI and business logic
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 [ ] Checkout flow
 
@@ -121,13 +111,12 @@ Clean separation of UI and business logic
 
 [ ] Animations and micro-interactions
 
-📄 License
+## 📄 License
 
 This project is open-source and available under the MIT License.
 
-👤 Author
+## 👤 Author
 
 Ravishka Bandara
 Software Engineering Undergraduate
 
-GitHub Profile
