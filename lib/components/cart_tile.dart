@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 
 class CartTile extends StatelessWidget {
   final Shoe shoe;
-   CartTile({super.key, required this.shoe});
+   const CartTile({super.key, required this.shoe});
 
 
 

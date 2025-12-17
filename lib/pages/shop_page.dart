@@ -25,7 +25,7 @@ class _ShopPageState extends State<ShopPage> {
         actions: [
           TextButton(
             style: ButtonStyle(
-              foregroundColor: MaterialStateProperty.all<Color>(Colors.grey[900]!),
+              foregroundColor: WidgetStateProperty.all<Color>(Colors.grey[900]!),
             ),
             onPressed: () {
               Navigator.of(context).pop();
