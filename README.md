@@ -48,7 +48,7 @@ Follow the steps below to run the project locally.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone [https://github.com/your-username/ecommence_app.git](https://github.com/your-username/ecommence_app.git)
+git clone https://github.com/RavishkaB2003/Nike-App.git
 cd ecommence_app
 ```
 
